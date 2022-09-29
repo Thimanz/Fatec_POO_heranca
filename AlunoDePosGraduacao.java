@@ -1,3 +1,3 @@
-public class AlunoDePosGraduacao extends Pessoa{
+public class AlunoDePosGraduacao extends Aluno{
     char conceito;
 }
