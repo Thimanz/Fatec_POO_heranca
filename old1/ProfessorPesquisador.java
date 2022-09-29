@@ -3,6 +3,6 @@ public class ProfessorPesquisador{
     private int idade;
 
     public void pesquisar(){
-        System.out.println("Pesquisando...")
+        System.out.println("Pesquisando...");
     }
 } 
